@@ -1,12 +1,8 @@
 ![header](G4ALL-screenies.png)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5NNXWL)
 
-# GUN4ALL-GUI
-### Reference configuration utility for the open source [IR-GUN4ALL light gun system](https://github.com/SeongGino/ir-light-gun-plus), written in C++ & QT.
-
-***Made for GUN4ALL v4.0 "L.G.A Force" and up.***
-
-## Features:
+# P.I.G.S-GUI
+### Reference configuration utility for 
+## Features
  - Cross-platform QT application, portable across desktops to Pis and other OSes.
  - Simple to use: select the gun from the dropdown, and configure away!
  - See and manage current pins layout, toggle on and off custom mappings, set other tunables, and change the gun's USB identifier (with built-in decimal-to-hex conversion for your convenience!).
