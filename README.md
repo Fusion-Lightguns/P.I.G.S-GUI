@@ -1,25 +1,39 @@
-# P.I.G.S-GUI
-### Reference configuration utility for [P.I.G.S](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System) LightGun ecosystem.
+# P.I.G.S GUI(General User Interface)
+
+## Info
+- Configuration & utility program for [P.I.G.S](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System) LightGun ecosystem.
+- Orginally forked from SeongGinos [GUN4ALL GUI](https://github.com/SeongGino/GUN4ALL-GUI). Much like P.I.G.S itself I likled GUI but wanted different so here we are .
 
 ## Features
  - Cross-platform QT application, portable across desktops to Pis and other OSes.
- - Simple to use: select the gun from the dropdown, and configure away!
- - Turn rumble or solenoid on/off.
- - Testing utility for button input and solenoid/rumble force feedback.
+ - Simple to use.
+ - Turn rumble and/or solenoid on or off.
+ - Testing utility for button input & solenoid/rumble force feedback.
 
-#### Requirements: 
+## Requirements: 
 - QT5
+- Internet connection
+- Mouse & Keyboard
 
-## Installation:
+# Installation:
 
-### For RetroPie:
+#### For RetroPie:
 - Open terminal (press F4 in main menu)
-- Type "COMING SOON"
+- "COMING SOON"
 
-### For General Pi:
+#### For General Linux:
 - COMONG SOON
-- 
-### For Windows:
+
+#### For Windows:
  - Download latest zip in releases.
  - Extract somewhere you will remeber . This varies per setup where is best place
  - Double click P.I.G.S--GUI.exe
+
+#### For Batocera:
+-COMING SOON 
+
+# Changelog
+- For Changelog or my edits and SeongGino please see [Changelog](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/blob/main/Changelog.md)
+
+# Credits
+- MAJOR credit to SeongGino for his GUN4ALL GUI . It provided a great base to work from . 
