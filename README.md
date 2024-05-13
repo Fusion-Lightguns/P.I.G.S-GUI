@@ -1,4 +1,4 @@
-# P.I.G.S GUI(General User Interface)
+# P.I.G.S GUI  (General User Interface)
 
 ## Info
 - Configuration & utility program for [P.I.G.S](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System) LightGun ecosystem.
