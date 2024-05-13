@@ -22,7 +22,7 @@
 - "COMING SOON"
 
 #### For General Linux:
-- COMONG SOON
+- COMING SOON
 
 #### For Windows:
  - Download latest zip in releases.
@@ -36,6 +36,6 @@
 - For Changelog or my edits and SeongGino please see [Changelog](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/blob/main/Changelog.md)
 
 # Credits
-- MAJOR credit to SeongGino for his GUN4ALL GUI . It provided a great base to work from .
+- MAJOR credit to SeongGino for his GUN4ALL GUI . It provided a great base to work from. Version of GUI I started with, can be found in [Archives](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/tree/main/Archives/SeongGino--GUN4ALL) of this repo.
 - Testers thus far.
   
