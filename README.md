@@ -30,10 +30,12 @@
  - Double click P.I.G.S--GUI.exe
 
 #### For Batocera:
--COMING SOON 
+- COMING SOON 
 
 # Changelog
 - For Changelog or my edits and SeongGino please see [Changelog](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/blob/main/Changelog.md)
 
 # Credits
-- MAJOR credit to SeongGino for his GUN4ALL GUI . It provided a great base to work from . 
+- MAJOR credit to SeongGino for his GUN4ALL GUI . It provided a great base to work from .
+- Testers thus far.
+  
