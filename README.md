@@ -26,10 +26,11 @@
 #### For General Linux:
 - COMING SOON
 
-#### For Windows:
- - Download latest zip in releases.
- - Extract somewhere you will remeber . This varies per setup where is best place
- - Double click P.I.G.S--GUI.exe
+#### For General Windows:
+ - Download latest zip in [releases](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/releases/).
+ - Extract somewhere you will remeber. (This varies per setup where is best place)
+ - Open **P.I.G.S--GUI** folder.
+ - Double click **P.I.G.S-GUI.exe**
 
 #### For Batocera:
 - COMING SOON 
