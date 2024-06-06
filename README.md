@@ -6,14 +6,14 @@
 - Orginally forked from SeongGinos [GUN4ALL GUI](https://github.com/SeongGino/GUN4ALL-GUI). Much like P.I.G.S itself I likled GUI but wanted different so here we are .
 
 ## Features
- - Cross-platform QT application, portable across desktops to Pis and other OSes.
- - Simple to use.
+ - Cross-platform QT application, portable across desktops to Pis and other OSes.(Testing Linux still)
+ - Simple to use & update. 
  - Turn rumble and/or solenoid on or off.
  - Testing utility for button input & solenoid/rumble force feedback.
  - Burn/change player with ease .
 
 ## Screenshots 
-![gui-1-screenschot](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/assets/118452807/4fb03caa-bb34-43cd-b99a-643c03ecd7da), ![gui-2-screenschot](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/assets/118452807/40d805c0-8b56-4b1d-b063-5d4e1260857d), ![gui-3-screenshot](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/assets/118452807/22ca76cc-3556-4461-8e06-687672240b69)
+![gui-1-screenschot](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/assets/118452807/4fb03caa-bb34-43cd-b99a-643c03ecd7da),
 
 
 # Installation:
