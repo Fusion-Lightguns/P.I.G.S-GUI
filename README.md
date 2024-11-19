@@ -12,8 +12,7 @@
  - Burn/change player# with ease .
 
 ## Screenshots 
-![gui-1-screenschot](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/assets/118452807/4fb03caa-bb34-43cd-b99a-643c03ecd7da),
-
+- New screenshots coming soon .
 
 # Installation:
 
