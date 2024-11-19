@@ -13,3 +13,8 @@
 - Updated UF2 files to newest ones to include LG2040.
 - Working on grabbing the uf2 files from internet as a "update button" .
 
+# Version 2.0 
+- Complete rehaul .
+- New visuals and layout.
+- Same functions .
+- Removed all the unnecessary/unneeded stuff.
