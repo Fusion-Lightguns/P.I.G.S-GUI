@@ -3,8 +3,7 @@
 ## Info
 - GUI stands for general user interface.
 - Configuration & utility program for [P.I.G.S](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System) LightGun ecosystem.
-- Orginally forked from SeongGinos [GUN4ALL GUI](https://github.com/SeongGino/GUN4ALL-GUI). Much like P.I.G.S itself I liked GUI but wanted different so here we are .
-
+  
 ## Features
  - Cross-platform QT application, portable across desktops to Pis and other OSes.(Testing Linux still)
  - Simple to use & update. 
