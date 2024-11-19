@@ -10,7 +10,7 @@
  - Simple to use & update. 
  - Turn rumble and/or solenoid on or off.
  - Testing utility for button input & solenoid/rumble force feedback.
- - Burn/change player with ease .
+ - Burn/change player# with ease .
 
 ## Screenshots 
 ![gui-1-screenschot](https://github.com/Fusion-Lightguns/P.I.G.S-GUI/assets/118452807/4fb03caa-bb34-43cd-b99a-643c03ecd7da),
