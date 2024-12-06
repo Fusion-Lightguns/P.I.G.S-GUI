@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fusion.qss</file>
+        <file>images/pigs_logo.png</file>
+        <file>images/icons/T_A_Key_Vintage.png</file>
+        <file>images/icons/T_B_Key_Vintage.png</file>
+        <file>images/icons/T_C_Key_Vintage.png</file>
+        <file>images/icons/T_Down_Key_Vintage.png</file>
+        <file>images/icons/T_Left_Key_Vintage.png</file>
+        <file>images/icons/T_Right_Key_Vintage.png</file>
+        <file>images/icons/T_Up_Key_Vintage.png</file>
+        <file>images/icons/check.png</file>
+        <file>images/icons/up.png</file>
+        <file>images/icons/down.png</file>
+        <file>images/setup/LED-Setup.png</file>
+        <file>images/Calibration.png</file>
+        <file>images/icons/Start.png</file>
+        <file>images/icons/Select.png</file>
+        <file>images/icons/Pedal.png</file>
+        <file>images/icons/Pump.png</file>
+        <file>images/icons/Trigger.png</file>
+        <file>images/icons/A-Clicked.png</file>
+        <file>images/icons/B-Clicked.png</file>
+        <file>images/icons/C-Clicked.png</file>
+        <file>images/icons/Down-Clicked.png</file>
+        <file>images/icons/Left-Clicked.png</file>
+        <file>images/icons/Pedal-Clicked.png</file>
+        <file>images/icons/Right-Clicked.png</file>
+        <file>images/icons/Select-Clicked.png</file>
+        <file>images/icons/Up-Clicked.png</file>
+        <file>images/icons/Start-Clicked.png</file>
+        <file>images/lightguns/CL.png</file>
+        <file>images/lightguns/CR.png</file>
+        <file>images/setup/LG-Setup.png</file>
+        <file>images/setup/LG-Tips.png</file>
+        <file>images/icons/Pump-Clicked.png</file>
+        <file>images/icons/Trigger-Clicked.png</file>
+        <file>images/lightguns/LG-42.png</file>
+    </qresource>
+</RCC>
