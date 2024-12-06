@@ -1,0 +1,230 @@
+/*----- General Background -----*/
+QWidget {
+    background-color: #1c1c1c; /* Dark grey background for the entire widget */
+    color: #ffffff; /* White text */
+}
+
+/*----- QTabWidget (Tabs) -----*/
+QTabWidget::pane {
+    border: none; /* No border around the pane */
+    background-color: #1c1c1c; /* Dark grey background for the pane */
+}
+
+QTabBar::tab {
+    background-color: #333333; /* Dark grey for tabs */
+    color: #ffffff; /* White text */
+    padding: 8px;
+    margin: 2px;
+    border-radius: 5px;
+    border: 1px solid #388e3c; /* Dark green border */
+}
+
+QTabBar::tab:selected {
+    background-color: #388e3c; /* Dark green for selected tab */
+    color: #ffffff; /* White text */
+    border-color: #66bb6a; /* Lighter green for selected tab border */
+}
+
+QTabBar::tab:hover {
+    background-color: #66bb6a; /* Lighter green on hover */
+}
+
+QTabBar::tab:disabled {
+    background-color: #505050; /* Grey background for disabled tab */
+    color: #808080; /* Grey text */
+    border-color: #388e3c;
+}
+
+
+/*----- QSpinBox & QDoubleSpinBox -----*/
+QSpinBox,
+QDoubleSpinBox,
+QDateTimeEdit {
+    background-color: #000000; /* Black background */
+    color: #ffffff; /* White text */
+    border: 1px solid #388e3c; /* Dark green border */
+    border-radius: 3px;
+    padding: 2px;
+    height: 20px;
+}
+
+QSpinBox::disabled,
+QDoubleSpinBox::disabled,
+QDateTimeEdit::disabled {
+    background-color: #333333; /* Disabled dark grey */
+    color: #656565; /* Grey text */
+    border-color: #388e3c;
+}
+
+QSpinBox:hover,
+QDoubleSpinBox:hover,
+QDateTimeEdit:hover {
+    background-color: #66bb6a; /* Lighter green on hover */
+    color: #ffffff;
+    border: 1px solid #4caf50; /* Light green border */
+}
+
+/*----- SpinBox Up/Down Arrows Styling (using CSS) -----*/
+QSpinBox::up-button,
+QSpinBox::down-button,
+QDoubleSpinBox::up-button,
+QDoubleSpinBox::down-button,
+QDateTimeEdit::up-button,
+QDateTimeEdit::down-button {
+    width: 20px;
+    height: 20px;
+    background-color: #388e3c; /* Dark green for arrows */
+    border-radius: 3px;
+    border: 1px solid #388e3c; /* Light green border */
+}
+
+/* Replace the default arrow with the custom up arrow image */
+QSpinBox::up-button {
+    background: transparent;
+    border: none;
+    width: 16px;
+    height: 16px;
+    image: url(:/images/icons/up.png); /* Custom up arrow image */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* Replace the default down arrow with the custom down arrow image */
+QSpinBox::down-button {
+    background: transparent;
+    border: none;
+    width: 16px;
+    height: 16px;
+    image: url(:/images/icons/down.png); /* Custom down arrow image */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* Hover and Pressed Effects for SpinBox Arrows */
+QSpinBox::up-button:hover,
+QSpinBox::down-button:hover {
+    background-color: #66bb6a; /* Light green on hover */
+    border: 1px solid #66bb6a; /* Light green border */
+}
+
+QSpinBox::up-button:pressed,
+QSpinBox::down-button:pressed {
+    background-color: #4caf50; /* Light green when pressed */
+    border: 1px solid #66bb6a; /* Lighter green border */
+}
+
+/*----- QComboBox (Drop-down) -----*/
+QComboBox {
+    background-color: #000000; /* Black for combo box */
+    color: #ffffff; /* White text */
+    border: 1px solid #388e3c; /* Dark green border */
+    border-radius: 3px;
+    padding-left: 6px;
+    height: 20px;
+}
+
+QComboBox::disabled {
+    background-color: #333333; /* Disabled grey */
+    color: #656565;
+    border-color: #388e3c;
+}
+
+QComboBox:hover {
+    background-color: #66bb6a; /* Lighter green on hover */
+}
+
+QComboBox QAbstractItemView {
+    background-color: #222222; /* Dark grey for dropdown */
+    color: #ffffff;
+    border: 1px solid #388e3c;
+    selection-background-color: #66bb6a; /* Hover effect for items */
+    selection-color: #ffffff;
+}
+
+QComboBox::drop-down {
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 15px;
+    border-left-width: 0px;
+    border-left-color: fusiongray;
+    border-left-style: solid;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+QComboBox::down-arrow {
+    width: 8px;
+    height: 8px;
+    background: transparent;
+    border-top: 4px solid #ffffff; /* White arrow for dropdown */
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+}
+
+/*----- QLineEdit (Text Inputs) -----*/
+QLineEdit {
+    background-color: #000000; /* Black background for text inputs */
+    color: #ffffff;
+    border: 1px solid #388e3c; /* Dark green border */
+    border-radius: 3px;
+    padding: 2px;
+}
+
+QLineEdit::disabled {
+    background-color: #333333; /* Disabled grey background */
+    color: #656565; /* Disabled text color */
+    border-color: #388e3c;
+}
+
+/*----- Push Buttons -----*/
+QPushButton {
+    background-color: #388e3c; /* Dark green for buttons */
+    color: #ffffff; /* White text */
+    border: 1px solid #388e3c; /* Dark green border */
+    border-radius: 5px;
+    padding: 8px;
+}
+
+QPushButton:hover {
+    background-color: #66bb6a; /* Lighter green on hover */
+    border: 1px solid #4caf50; /* Light green border on hover */
+}
+
+QPushButton:pressed {
+    background-color: #4caf50; /* Lighter green when pressed */
+    border: 1px solid #66bb6a; /* Lighter green border */
+}
+
+/*----- QCheckBox (Checkbox) -----*/
+QCheckBox {
+    color: #ffffff; /* White text */
+    padding: 5px;
+    spacing: 5px;
+}
+
+QCheckBox::indicator {
+    width: 20px;
+    height: 20px;
+    background-color: #333333; /* Dark grey background for checkbox */
+    border: 1px solid #388e3c; /* Dark green border */
+    border-radius: 3px;
+}
+
+/* Custom checkbox image (check.png) */
+QCheckBox::indicator:checked {
+    background-color: #388e3c; /* Dark green when checked */
+    image: url(:/images/icons/check.png);  /* Custom check image */
+}
+
+QCheckBox::indicator:unchecked {
+    background-color: #1c1c1c; /* Dark grey when unchecked */
+}
+
+/* Hover and Pressed Effects for Checkbox */
+QCheckBox::indicator:hover {
+    background-color: #66bb6a; /* Lighter green on hover */
+}
+
+QCheckBox::indicator:checked:hover {
+    background-color: #4caf50; /* Lighter green when checked and hovered */
+}
