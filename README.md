@@ -12,7 +12,12 @@
  - Burn/change player# with ease .
 
 ## Screenshots 
-- New screenshots coming soon .
+![Screenshot (2)](https://github.com/user-attachments/assets/0fc5bf0a-0f47-44b2-8074-3e0bb399bd09)
+
+![Screenshot (4)](https://github.com/user-attachments/assets/7cbd2cb2-59c3-428b-8c67-c21837cd4667)
+
+![Screenshot (3)](https://github.com/user-attachments/assets/d76d8c0c-903a-4a39-a353-23680519e6dc)
+
 
 # Installation:
 
